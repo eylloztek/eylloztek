@@ -47,7 +47,3 @@
 
 ###
 
-
-## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@eyluloztek248942/30-nites-of-code)  
-  ![@eyluloztek248942 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=eyluloztek248942)
